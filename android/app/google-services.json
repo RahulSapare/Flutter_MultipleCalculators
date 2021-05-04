@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "922718855921",
+    "project_id": "coconeobank-7fdc0",
+    "storage_bucket": "coconeobank-7fdc0.appspot.com",
+    "firebase_url": "https://coconeobank-7fdc0-default-rtdb.firebaseio.com/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922718855921:android:5dddc1f524d04c29b0ff50",
+        "android_client_info": {
+          "package_name": "com.example.coconeobank",
+          "firebase_url": "https://coconeobank-7fdc0-default-rtdb.firebaseio.com/"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922718855921-cti78pgtddjjrui7jokq6osch4qtvcbb.apps.googleusercontent.com",
+          "client_type": 3,
+          "firebase_url": "https://coconeobank-7fdc0-default-rtdb.firebaseio.com/"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChxXJ425b5RwTITJeVntSZj8fMRrJDtog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922718855921-cti78pgtddjjrui7jokq6osch4qtvcbb.apps.googleusercontent.com",
+              "client_type": 3,
+              "firebase_url": "https://coconeobank-7fdc0-default-rtdb.firebaseio.com/"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
